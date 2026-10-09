@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../ContadorDeEstrelas/SetupContaEstrelas/SetupContaEstrelas.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="ContaEstrelas.csproj" Id="e8bc2691-4130-4730-a4b1-b8bb099b2a8e" />
+</Solution>
