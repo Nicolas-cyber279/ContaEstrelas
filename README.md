@@ -106,6 +106,10 @@ Este projeto é uma aplicação desktop simples, prática e funcional para geren
 
 O ContaEstrelas é um sistema de ranking em que as estrelinhas funcionam como medalhas de premiação. A aplicação permite administrar usuários, controlar pontuação e exibir uma classificação dinâmica em ordem de mérito, tornando o reconhecimento mais visível e motivador.
 
+## 👨‍💻 Autor
+
+Nicolas Da Silva Valadares
+
 ---
 
 Desenvolvido para incentivar participação, desempenho e reconhecimento através de um ranking simples, transparente e gamificado.
